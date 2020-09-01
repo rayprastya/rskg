@@ -14,6 +14,9 @@ kebutuhan masing-masing instansi rumah sakit.
 * Gitlab: 	
 * Github: 	
 
+### Software & Hardware yang dibutuhkan ###
+
+
 ### Cara Setup Aplikasi ###
 
 
