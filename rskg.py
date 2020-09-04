@@ -58,3 +58,7 @@ class rskgi(object):
                 continue
             else:
                 break
+        
+        while True:
+            print(self.driver.find_element_by_xpath('//*[@id="text"]/a').get_attribute('value'))
+            
