@@ -23,6 +23,17 @@ while True:
             #use or!!
         
     except:
-        print("salaj anjeng")
+        print("salaj")
 
+         #   count = 0
+        #int(nilai) = self.driver.find_element_by_class_name("no-antrian")
+        #for x in int(count):
+            #if count < nilai:
+              #  count.append(nilai)
+             #   continue
+            #else:
+                #break
+        
+        #while True:
+            #print(self.driver.find_element_by_xpath('//*[@id="text"]/a').get_attribute('value'))
             
