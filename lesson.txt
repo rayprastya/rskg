@@ -1,0 +1,12 @@
+One option is to run your python script run on a schedule and output to .csv or another format that Excel can link to. This option allows the data to be updated whenever the python script is executed.
+
+Setup:
+
+Output your dataframe to csv/database or other Excel readable format
+Setup your python file to run on a schedule (either by scheduling, or a loop with a delay)
+Create a data connection from Excel to your python outputted file/database
+Build pivot tables based on table in Excel
+Refresh data connection/pivot tables in Excel to get the new data
+
+
+ngrok = for making private url goes to public
